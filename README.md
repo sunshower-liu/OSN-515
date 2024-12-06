@@ -1,6 +1,6 @@
 # OSN-515
 
-The OSN-515 dataset is a dataset designed for open-world attribute extraction from sparse corpora. It contains 515 samples from APR News, and each sample includes raw text, preprocessed typed text, and corresponding attribute triplet labels. The dataset can be used in text analysis, information extraction, and semantic understanding. The corpora is **sparse** for attribute extraction while a large number of instances do not include valuable attribute triplets. The dataset aims to boost the study of attribute extraction with noises in the real world.
+The OSN-515 dataset is a dataset designed for open-world attribute extraction from sparse corpora. It contains 515 samples from APR News, and each sample includes a raw text, a preprocessed typed text, and corresponding attribute triplet labels. The dataset can be used in text analysis, information extraction, and semantic understanding. The corpora is **sparse** for attribute extraction while a large number of instances do not include valuable attribute triplets. The dataset aims to boost the study of attribute extraction with noises in the real world.
 
 ## Example
 
